@@ -1,4 +1,4 @@
-# hackernews-fetch-data-python
+#  A Tool to search Hacker News for a specific term
 
 You can use the Hacker News Search API and a programming language such as Python to build a script that searches Hacker News for a specific term and displays the results in a tabular format.
 
